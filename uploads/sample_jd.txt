@@ -1,0 +1,16 @@
+Job Title: Backend Developer
+
+Required Skills:
+Python
+FastAPI
+Docker
+SQL
+AWS
+REST APIs
+AWS
+
+Responsibilities:
+- Build scalable backend APIs using Python and FastAPI
+- Work with Docker and cloud platforms
+- Collaborate with frontend teams
+- Write clean and maintainable code

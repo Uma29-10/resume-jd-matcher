@@ -1,0 +1,22 @@
+Name: Rahul Sharma
+
+Email: rahul.sharma@email.com
+Phone: 9876543210
+
+Skills:
+Python
+FastAPI
+SQL
+Docker
+Git
+REST APIs
+Data Analysis
+
+Experience:
+- Developed REST APIs using FastAPI
+- Worked with Docker for containerization
+- Used SQL for database queries
+- Built backend services in Python
+
+Projects:
+Resume and Job Description Matcher using Python and FastAPI
