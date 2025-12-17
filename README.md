@@ -5,7 +5,6 @@ This project automates resume screening by parsing candidate resumes and job des
 The system helps recruiters reduce manual screening time and improve consistency.
 
 
----
 
 ⚙ Features
 
