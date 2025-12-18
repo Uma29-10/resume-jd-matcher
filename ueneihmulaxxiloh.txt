@@ -1,0 +1,6 @@
+ueneihmulaxxiloh
+
+setx SENDER_EMAIL "gshakuntala2022@gmail.com"
+setx EMAIL_APP_PASSWORD "ueneihmulaxxiloh"
+
+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
